@@ -15,9 +15,8 @@
 ##🗺️ Cocok banget untuk:
 - ✅ Navigasi taxi atau kurir
 - ✅ Misi delivery atau roleplay pengantaran
-
-##🗺️ Pemula yang butuh arah jalan
-- ✅Event race / checkpoint
+- ✅ Pemula yang butuh arah jalan
+- ✅ Event race / checkpoint
 
 ##📸 Screenshot Preview:
 📷 <img width="1919" height="1079" alt="Screenshot 2025-08-07 153658" src="https://github.com/user-attachments/assets/d21a1f07-71a5-4c74-82d2-1469bc5eac81" />
