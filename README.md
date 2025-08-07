@@ -1,16 +1,16 @@
 # oxygen_waypoints
 
-##📍 [RELEASE] oxygen_waypoints - 3D Waypoint System for QBCore
-##🚗 Versi baru! Navigasi jadi makin realistis dan imersif!
+##- 📍 [RELEASE] oxygen_waypoints - 3D Waypoint System for QBCore
+##- 🚗 Versi baru! Navigasi jadi makin realistis dan imersif!
 ---
 ##🔧 Fitur Utama:
-✅ Waypoint 3D yang muncul langsung di dunia (bukan cuma di map)
-✅ Dukungan penuh untuk QBCore
-✅ Tampilan elegan & bersih
-✅ Notifikasi tujuan secara real-time
-✅ Warna waypoint bisa dikustomisasi (RGBA)
-✅ Ringan dan optimal untuk semua jenis server
-✅ UI interaktif untuk setting waypoint
+- ✅ Waypoint 3D yang muncul langsung di dunia (bukan cuma di map)
+- ✅ Dukungan penuh untuk QBCore
+- ✅ Tampilan elegan & bersih
+- ✅ Notifikasi tujuan secara real-time
+- ✅ Warna waypoint bisa dikustomisasi (RGBA)
+- ✅ Ringan dan optimal untuk semua jenis server
+- ✅ UI interaktif untuk setting waypoint
 ---
 
 ---
